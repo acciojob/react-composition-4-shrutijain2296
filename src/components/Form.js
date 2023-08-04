@@ -13,6 +13,7 @@ const Form = () =>{
         email: email,
         password: password
        }
+       console.log(obj);
     }
 
 
